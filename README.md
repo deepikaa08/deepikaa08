@@ -9,9 +9,6 @@ I'm a passionate developer
 - 🔐 **Supply Tracker** – Inventory and shipment management system
 
 
-## 📈 GitHub Stats
-![Deepikaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepikaa08&show_icons=true&theme=tokyonight)
-
 ## 💬 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/deepikaa-gopalakannan)
 - 📫 Email: deepikaagopalakannan@gmail.com
